@@ -14,3 +14,11 @@ git init
 git add .
 git commit -m 'Mensagem'
 git remote add origin URL_DO_GIT
+
+
+# _______ Codigos Sistemicos
+
+# criar um app
+python .\manage.py startapp nome_do_app
+
+# adicionar o nome do app na pasta project/settings.py
